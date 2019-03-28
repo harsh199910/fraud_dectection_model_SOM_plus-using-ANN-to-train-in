@@ -1,4 +1,4 @@
-# fraud_dectection_model_SOM
+# fraud_dectection_model_SOM with ANN 
 unsupervised learning using self organizing map(SOM)
 
 
